@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="mario-pixel-art.gif" alt="Welcome Banner" height="200" />
+  <img src="mario-pixel-art.gif" alt="Welcome Banner" style="height=: 200px;" />
 </p>
 
 # hello world, i'm daniel
